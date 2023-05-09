@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AulaVirtual/static/css/main.0fa0d646.css",
+    "main.js": "/AulaVirtual/static/js/main.62906fca.js",
+    "static/js/787.276beda4.chunk.js": "/AulaVirtual/static/js/787.276beda4.chunk.js",
+    "index.html": "/AulaVirtual/index.html",
+    "main.0fa0d646.css.map": "/AulaVirtual/static/css/main.0fa0d646.css.map",
+    "main.62906fca.js.map": "/AulaVirtual/static/js/main.62906fca.js.map",
+    "787.276beda4.chunk.js.map": "/AulaVirtual/static/js/787.276beda4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fa0d646.css",
+    "static/js/main.62906fca.js"
+  ]
+}
