@@ -1,0 +1,56 @@
+/* Css del logo hasta las preguntas */
+
+.header {
+  background-color: white;
+  position: sticky;
+  top: 0px;
+}
+
+nav {
+  min-height: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.item {
+  width: 100%;
+}
+
+img {
+  margin: 0 0 0 2em;
+  width: 15em;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.questions {
+  padding: 1.5em 0 0 0.5em;
+  font-size: 18px;
+}
+
+.quest {
+  color: #0094ff;
+}
+
+.quest:hover {
+  color: black;
+}
+
+.logo {
+  display: flex;
+}
+
+/* Css del boton de los idiomas */
+
+.languages {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 2em;
+}

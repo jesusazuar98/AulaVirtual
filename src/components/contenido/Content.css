@@ -1,0 +1,29 @@
+.moodleaula-container {
+  min-height: 550px;
+  background: url(https://aulavirtual.murciaeduca.es/pluginfile.php/1/theme_moove/headerimg/1677155381/background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  gap: 20px;
+}
+
+.moodleaula-container1 {
+  display: flex;
+  width: 100%;
+}
+
+.title-container {
+  color: #fff;
+  text-shadow: 10px 10px 10px #000;
+  letter-spacing: 0.2em;
+  margin-left: 2em;
+  margin-top: 1em;
+  font-size: 40px;
+}
+
+.form-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  opacity: 1;
+}

@@ -1,0 +1,84 @@
+.form-content {
+  background-color: #ffff;
+  width: 45em;
+  height: 22em;
+  margin: 20px 40px 0 0;
+}
+
+form {
+  margin: 1em 0 0 2em;
+  color: #455a64;
+  display: block;
+}
+
+label {
+  font-size: 1.8em;
+}
+
+form p {
+  font-size: 2em;
+}
+
+.usu {
+  display: flex;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.usu input {
+  flex: 0.9 0.9 auto;
+  height: 40px;
+  font-size: 1.2em;
+  width: 1%;
+}
+
+.usu i {
+  border-style: solid;
+  border-width: 1px;
+  width: 2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pass {
+  display: flex;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.pass input {
+  flex: 0.9 0.9 auto;
+  height: 40px;
+  font-size: 1.2em;
+  width: 1%;
+}
+
+.pass i {
+  border-style: solid;
+  border-width: 1px;
+  width: 2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.accede {
+  width: 8em;
+  height: 2em;
+  background-color: #0094ff;
+  color: #ffff;
+  border: 0;
+  font-size: 1.3em;
+}
+
+.forgetten-pass {
+  color: #0094ff;
+  font-size: 1.3em;
+  margin: 2em 0 0 2em;
+}
+
+.form-content i {
+  height: 44px;
+  width: 44px;
+}

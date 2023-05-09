@@ -1,0 +1,25 @@
+.logo-languages {
+  color: #08a8ff;
+
+  width: 50px;
+  height: 30px;
+}
+
+.show-languages.active {
+  position: absolute;
+  visibility: visible;
+  top: 100%;
+  right: 0;
+  margin-right: 2em;
+  margin-top: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 0;
+  font-size: 18px;
+}
+
+.show-languages.inactive {
+  visibility: hidden;
+  opacity: 0;
+  display: none;
+}

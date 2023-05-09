@@ -1,0 +1,10 @@
+.idioma {
+  padding: 10px;
+  color: black;
+  display: block;
+}
+
+.idioma:hover {
+  background-color: #08a8ff;
+  color: #fff;
+}
